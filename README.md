@@ -31,9 +31,9 @@ Get started today and experience the future of enhanced airport luggage manageme
 # DATABASE DETAILS:
 
 IN LINES 35-37
-35. const string server = /*"SERVER NAME"*/; // Kindly input your localhost and port e.g., localhost:8080
-36. const string username = /*"USERNAME"*/;  // kindly alter it with your sql username for connectivity
-37. const string password = /*"PASSWORD"*/;  // kindly alter it with your sql server user password
+35. const string server = /*"SERVER NAME"*/; // Kindly input your localhost and port e.g., localhost:8080.
+36. const string username = /*"USERNAME"*/;  // kindly alter it with your sql username for connectivity.
+37. const string password = /*"PASSWORD"*/;  // kindly alter it with your sql server user password.
 
 
 solely programmed by:
