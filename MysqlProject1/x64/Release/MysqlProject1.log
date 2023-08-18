@@ -1,0 +1,57 @@
+﻿  main.cpp
+C:\Users\Welcome\source\repos\MysqlProject1\MysqlProject1\main.cpp(47,18): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Welcome\source\repos\MysqlProject1\MysqlProject1\main.cpp(47,21): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Welcome\source\repos\MysqlProject1\MysqlProject1\main.cpp(184,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Welcome\source\repos\MysqlProject1\MysqlProject1\main.cpp(347,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Welcome\source\repos\MysqlProject1\MysqlProject1\main.cpp(440,49): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+C:\Users\Welcome\source\repos\MysqlProject1\MysqlProject1\main.cpp(445,48): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+C:\Users\Welcome\source\repos\MysqlProject1\MysqlProject1\main.cpp(450,52): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+C:\Users\Welcome\source\repos\MysqlProject1\MysqlProject1\main.cpp(680,110): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+C:\Users\Welcome\source\repos\MysqlProject1\MysqlProject1\main.cpp(755,49): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+C:\Users\Welcome\source\repos\MysqlProject1\MysqlProject1\main.cpp(760,48): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+C:\Users\Welcome\source\repos\MysqlProject1\MysqlProject1\main.cpp(765,52): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+C:\Users\Welcome\source\repos\MysqlProject1\MysqlProject1\main.cpp(697,10): warning C4101: 'lug': unreferenced local variable
+C:\Users\Welcome\source\repos\MysqlProject1\MysqlProject1\main.cpp(846,29): warning C4101: 'd_point': unreferenced local variable
+C:\Users\Welcome\source\repos\MysqlProject1\MysqlProject1\main.cpp(846,42): warning C4101: 'a_point': unreferenced local variable
+C:\Users\Welcome\source\repos\MysqlProject1\MysqlProject1\main.cpp(846,18): warning C4101: 'lname': unreferenced local variable
+C:\Users\Welcome\source\repos\MysqlProject1\MysqlProject1\main.cpp(846,7): warning C4101: 'fname': unreferenced local variable
+C:\Users\Welcome\source\repos\MysqlProject1\MysqlProject1\main.cpp(978,49): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+C:\Users\Welcome\source\repos\MysqlProject1\MysqlProject1\main.cpp(983,48): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+C:\Users\Welcome\source\repos\MysqlProject1\MysqlProject1\main.cpp(988,52): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+C:\Users\Welcome\source\repos\MysqlProject1\MysqlProject1\main.cpp(1010,10): warning C4101: 'lug': unreferenced local variable
+C:\Users\Welcome\source\repos\MysqlProject1\MysqlProject1\main.cpp(1131,54): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+C:\Users\Welcome\source\repos\MysqlProject1\MysqlProject1\main.cpp(1136,53): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+C:\Users\Welcome\source\repos\MysqlProject1\MysqlProject1\main.cpp(1141,57): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+C:\Users\Welcome\source\repos\MysqlProject1\MysqlProject1\main.cpp(1051,16): warning C4101: 'ad': unreferenced local variable
+C:\Users\Welcome\source\repos\MysqlProject1\MysqlProject1\main.cpp(1052,10): warning C4101: 'lug': unreferenced local variable
+C:\Users\Welcome\source\repos\MysqlProject1\MysqlProject1\main.cpp(1176,17): warning C4101: 'start': unreferenced local variable
+     Creating library C:\Users\Welcome\source\repos\MysqlProject1\x64\Release\MysqlProject1.lib and object C:\Users\Welcome\source\repos\MysqlProject1\x64\Release\MysqlProject1.exp
+  Generating code
+  5 of 272 functions ( 1.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+mysqlcppconn-static.lib(mysql_driver.obj) : warning LNK4099: PDB '' was not found with 'mysqlcppconn-static.lib(mysql_driver.obj)' or at ''; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_connection.obj) : warning LNK4099: PDB '' was not found with 'mysqlcppconn-static.lib(mysql_connection.obj)' or at ''; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_native_driver_wrapper.obj) : warning LNK4099: PDB '' was not found with 'mysqlcppconn-static.lib(mysql_native_driver_wrapper.obj)' or at ''; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_uri.obj) : warning LNK4099: PDB '' was not found with 'mysqlcppconn-static.lib(mysql_uri.obj)' or at ''; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_metadata.obj) : warning LNK4099: PDB '' was not found with 'mysqlcppconn-static.lib(mysql_metadata.obj)' or at ''; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_warning.obj) : warning LNK4099: PDB '' was not found with 'mysqlcppconn-static.lib(mysql_warning.obj)' or at ''; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_prepared_statement.obj) : warning LNK4099: PDB '' was not found with 'mysqlcppconn-static.lib(mysql_prepared_statement.obj)' or at ''; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_statement.obj) : warning LNK4099: PDB '' was not found with 'mysqlcppconn-static.lib(mysql_statement.obj)' or at ''; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_debug.obj) : warning LNK4099: PDB '' was not found with 'mysqlcppconn-static.lib(mysql_debug.obj)' or at ''; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_client_api.obj) : warning LNK4099: PDB '' was not found with 'mysqlcppconn-static.lib(mysql_client_api.obj)' or at ''; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_native_connection_wrapper.obj) : warning LNK4099: PDB '' was not found with 'mysqlcppconn-static.lib(mysql_native_connection_wrapper.obj)' or at ''; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_util.obj) : warning LNK4099: PDB '' was not found with 'mysqlcppconn-static.lib(mysql_util.obj)' or at ''; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_art_resultset.obj) : warning LNK4099: PDB '' was not found with 'mysqlcppconn-static.lib(mysql_art_resultset.obj)' or at ''; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_resultbind.obj) : warning LNK4099: PDB '' was not found with 'mysqlcppconn-static.lib(mysql_resultbind.obj)' or at ''; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_ps_resultset.obj) : warning LNK4099: PDB '' was not found with 'mysqlcppconn-static.lib(mysql_ps_resultset.obj)' or at ''; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_ps_resultset_metadata.obj) : warning LNK4099: PDB '' was not found with 'mysqlcppconn-static.lib(mysql_ps_resultset_metadata.obj)' or at ''; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_parameter_metadata.obj) : warning LNK4099: PDB '' was not found with 'mysqlcppconn-static.lib(mysql_parameter_metadata.obj)' or at ''; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_resultset.obj) : warning LNK4099: PDB '' was not found with 'mysqlcppconn-static.lib(mysql_resultset.obj)' or at ''; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_native_resultset_wrapper.obj) : warning LNK4099: PDB '' was not found with 'mysqlcppconn-static.lib(mysql_native_resultset_wrapper.obj)' or at ''; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_native_statement_wrapper.obj) : warning LNK4099: PDB '' was not found with 'mysqlcppconn-static.lib(mysql_native_statement_wrapper.obj)' or at ''; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_art_rset_metadata.obj) : warning LNK4099: PDB '' was not found with 'mysqlcppconn-static.lib(mysql_art_rset_metadata.obj)' or at ''; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_resultset_metadata.obj) : warning LNK4099: PDB '' was not found with 'mysqlcppconn-static.lib(mysql_resultset_metadata.obj)' or at ''; linking object as if no debug info
+  MysqlProject1.vcxproj -> C:\Users\Welcome\source\repos\MysqlProject1\x64\Release\MysqlProject1.exe
+  0 File(s) copied
