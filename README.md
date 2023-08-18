@@ -3,7 +3,7 @@
  
 SIA-EALMS Logo  SIA-EALMS is a comprehensive C++ project that introduces an innovative approach to managing airport luggage efficiently. This console-based application seamlessly integrates with a Relational Database Management System (RDBMS) to enhance the entire travel experience. The project is structured into three major modules, each serving a distinct purpose:  
  
-# 1. Ticket Section:
+# 1. Ticket Section: 
 The Ticket Section of SIA-EALMS facilitates the booking of flight tickets. Users can interact with an intuitive console interface to search for available flights, choose preferred seats, and confirm their reservations. This module ensures a hassle-free booking process, optimizing the user's journey from the very beginning.  
  
 # 2. Luggage Section: 
